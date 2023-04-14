@@ -1,5 +1,6 @@
 {
     "name": "zune-assets",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
