@@ -9,8 +9,7 @@
         "main.blocks",
         "main.ts",
         "assets.json",
-        "images.g.jres",
-        "images.g.ts"
+        "images.g.jres"
     ],
     "testFiles": [],
     "targetVersions": {
