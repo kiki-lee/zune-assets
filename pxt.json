@@ -12,9 +12,7 @@
         "images.g.jres",
         "images.g.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "branch": "v1.13.6",
         "tag": "v1.13.6",
