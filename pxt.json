@@ -9,7 +9,8 @@
         "main.blocks",
         "main.ts",
         "assets.json",
-        "images.g.jres"
+        "images.g.jres",
+        "images.g.ts"
     ],
     "testFiles": [],
     "targetVersions": {
@@ -23,5 +24,23 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#D41169",
+        "#FF8135",
+        "#FFF609",
+        "#249CA3",
+        "#526B47",
+        "#003FAD",
+        "#87F2FF",
+        "#8E2EC4",
+        "#A4839F",
+        "#5C406c",
+        "#ECBDAC",
+        "#8A524C",
+        "#000000"
+    ]
 }
