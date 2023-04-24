@@ -1,6 +1,6 @@
 {
     "name": "zune-assets",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -9,8 +9,7 @@
         "main.blocks",
         "main.ts",
         "assets.json",
-        "images.g.jres",
-        "images.g.ts"
+        "images.g.jres"
     ],
     "testFiles": [],
     "targetVersions": {
